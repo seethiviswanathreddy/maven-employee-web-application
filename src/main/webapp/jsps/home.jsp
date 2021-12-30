@@ -4,24 +4,24 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>DevOps Made Easy - Home Page</title>
+<title>DevOps Damm Easy - Home Page</title>
 <!-- link href="images/" rel="icon" -->
 </head>
 </head>
 <body>
-<h1 align="center">Welcome! to DevOps Made Easy</h1>
-<h1 align="center"> DevOps Made Easy Pvt Ltd is a Outsourcing, Consulting, Service, and Product Development</h1>
+<h1 align="center">Welcome! to DevOps Damm Easy</h1>
+<h1 align="center"> DevOps Damm Easy Pvt Ltd is a Outsourcing, Consulting, Service, and Product Development</h1>
 <hr>
 <div style="text-align: center;">
 	<!-- span>
 		<img src="images/" alt="" width="100">
 	</span -->
 	<span style="font-weight: bold;">
-		DevOps Made Easy,
+		DevOps Damm Easy,
 		Bangalore,
-		devopsmadeeasy@outlook.com
+		devopsdammeasy@outlook.com
 		<br>
-		<a href="mailto:devopsmadeeasy@outlook.com">Mail to DevOps Made Easy</a>
+		<a href="mailto:devopsdammeasy@outlook.com">Mail to DevOps Damm Easy</a>
 	</span>
 </div>
 <hr>
@@ -29,7 +29,7 @@
 <hr>
 <hr>
 <p align=center>DevOps Made Easy - Training, Consulting, Services, Product development.</p>
-<p align=center><small>Copyrights 2021 by <a href="http://devopsmadeeasy.com/">DevOps Made Easy</a> </small></p>
+<p align=center><small>Copyrights 2021 by <a href="http://devopsdammeasy.com/">DevOps Damm Easy</a> </small></p>
 
 </body>
 </html>
