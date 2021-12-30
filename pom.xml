@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.devopsmadeeasy</groupId>
-	<artifactId>devopsmadeeasy</artifactId>
+	<groupId>com.devopsdammeasy</groupId>
+	<artifactId>devopsdammeasy</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
 
@@ -10,8 +10,8 @@
 	<description>Maven Web App for Java Projects</description>
 
 	<organization>
-		<name>devopsmadeeasy</name>
-		<url>https://devopsmadeeasy.com</url>
+		<name>devopsdammeasy</name>
+		<url>https://devopsdammeasy.com</url>
 	</organization>
 
 	<properties>
@@ -89,14 +89,14 @@
 	<distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<name>devopsmadeeasy Release Nexus Repository</name>
-			<url>http://8.8.8.8:8081/repository/devopsmadeeasy-release/</url>
+			<name>devopsdammeasy Release Nexus Repository</name>
+			<url>http://8.8.8.8:8081/repository/devopsdammeasy-release/</url>
 		</repository>
 
 		<snapshotRepository>
 			<id>nexus</id>
-			<name>devopsmadeeasy Snapshot Nexus Repository</name>
-			<url>http://8.8.8.8:8081/repository/devopsmadeeasy-snapshot/</url>
+			<name>devopsdammeasy Snapshot Nexus Repository</name>
+			<url>http://8.8.8.8:8081/repository/devopsdammeasy-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>  
 
@@ -120,7 +120,7 @@
 				<configuration>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
 					<webApp>
-						<contextPath>/devopsmadeeasy</contextPath>
+						<contextPath>/devopsdammeasy</contextPath>
 					</webApp>
 				</configuration>
 			</plugin>
@@ -133,7 +133,7 @@
 					<downloadSources>true</downloadSources>
 					<downloadJavadocs>true</downloadJavadocs>
 					<wtpversion>2.0</wtpversion>
-					<wtpContextName>devopsmadeeasy</wtpContextName>
+					<wtpContextName>devopsdammeasy</wtpContextName>
 				</configuration>
 			</plugin>
 
